@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
-<h3 align="center">A fresher frontend developer from Vietnam</h3>
+<h3 align="center">#</h3>
 
 ### Contact me
 <a href="https://linkedin.com/in/itech0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itech0307" height="20" width="20" /></a>
@@ -33,8 +33,4 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itech0307&show_icons=true&locale=en" alt="itech0307" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itech0307&theme=dark" alt="itech0307" /></p>
 
