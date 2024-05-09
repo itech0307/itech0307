@@ -1,4 +1,4 @@
-2KQT8-HV27P-GTTV9-2WBVV-M7X96 / vb.net KEY
+
 <h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
 <h3 align="center">#</h3>
 
@@ -22,7 +22,7 @@
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-
+2KQT8-HV27P-GTTV9-2WBVV-M7X96 VB.NET
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
